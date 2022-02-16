@@ -3,6 +3,7 @@ Rencana KOnten
 -Javascript
   *es6
   *faramework
+-struktur data
 -PHP Pramework
 -Interview
 -Plog
