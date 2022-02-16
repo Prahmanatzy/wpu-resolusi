@@ -3,7 +3,10 @@ Rencana KOnten
 -Javascript
   *es6
   *faramework
+   ^ view
 -struktur data
 -PHP Pramework
+ ^ laravel
 -Interview
 -Plog
+-puthon
