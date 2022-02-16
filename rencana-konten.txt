@@ -4,6 +4,7 @@ Rencana KOnten
   *es6
   *faramework
    ^ view
+   ^ riek
 -struktur data
 -PHP Pramework
  ^ laravel
